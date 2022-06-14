@@ -16,5 +16,7 @@ Insert into empoyee_payrolls(name,salary,startDate) values
 ('Magesh',25000,'2021-04-18'),
 ('Gayathri',10000,'2020-05-13'),
 ('Aruna',30000,'2020-08-19');
+
+--UC-4 Retrieve All data--
 select * from empoyee_payrolls;
 
